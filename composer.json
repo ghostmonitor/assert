@@ -1,5 +1,5 @@
 {
-    "name": "beberlei/assert",
+    "name": "ghostmonitor/assert",
     "description": "Thin assertion library for input validation in business models.",
     "authors": [
         {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"}
